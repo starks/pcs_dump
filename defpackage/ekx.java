@@ -1,0 +1,14 @@
+package defpackage;
+
+/* compiled from: PG */
+/* loaded from: classes.dex */
+public final class ekx implements csg {
+    public static final ekx a = new ekx();
+    private final csg b = new csj(new ekz());
+
+    @Override // defpackage.csg
+    /* renamed from: b, reason: merged with bridge method [inline-methods] */
+    public final eky a() {
+        return (eky) ((csj) this.b).a;
+    }
+}

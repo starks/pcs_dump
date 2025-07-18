@@ -1,0 +1,21 @@
+package defpackage;
+
+import android.R;
+
+/* compiled from: PG */
+/* loaded from: classes.dex */
+public final class acb {
+    public static final int[] a = {R.attr.selectableItemBackground, com.google.android.as.oss.R.attr.selectableItemBackground};
+    public static final int[] b = {R.attr.summaryOn, R.attr.summaryOff, R.attr.disableDependentsState, com.google.android.as.oss.R.attr.disableDependentsState, com.google.android.as.oss.R.attr.summaryOff, com.google.android.as.oss.R.attr.summaryOn};
+    public static final int[] c = {R.attr.dialogTitle, R.attr.dialogMessage, R.attr.dialogIcon, R.attr.positiveButtonText, R.attr.negativeButtonText, R.attr.dialogLayout, com.google.android.as.oss.R.attr.dialogIcon, com.google.android.as.oss.R.attr.dialogLayout, com.google.android.as.oss.R.attr.dialogMessage, com.google.android.as.oss.R.attr.dialogTitle, com.google.android.as.oss.R.attr.negativeButtonText, com.google.android.as.oss.R.attr.positiveButtonText};
+    public static final int[] d = {com.google.android.as.oss.R.attr.useSimpleSummaryProvider};
+    public static final int[] e = {R.attr.entries, R.attr.entryValues, com.google.android.as.oss.R.attr.entries, com.google.android.as.oss.R.attr.entryValues, com.google.android.as.oss.R.attr.useSimpleSummaryProvider};
+    public static final int[] f = {R.attr.entries, R.attr.entryValues, com.google.android.as.oss.R.attr.entries, com.google.android.as.oss.R.attr.entryValues};
+    public static final int[] g = {R.attr.icon, R.attr.persistent, R.attr.enabled, R.attr.layout, R.attr.title, R.attr.selectable, R.attr.key, R.attr.summary, R.attr.order, R.attr.widgetLayout, R.attr.dependency, R.attr.defaultValue, R.attr.shouldDisableView, R.attr.fragment, R.attr.singleLineTitle, R.attr.iconSpaceReserved, com.google.android.as.oss.R.attr.allowDividerAbove, com.google.android.as.oss.R.attr.allowDividerBelow, com.google.android.as.oss.R.attr.defaultValue, com.google.android.as.oss.R.attr.dependency, com.google.android.as.oss.R.attr.enableCopying, com.google.android.as.oss.R.attr.enabled, com.google.android.as.oss.R.attr.fragment, com.google.android.as.oss.R.attr.icon, com.google.android.as.oss.R.attr.iconSpaceReserved, com.google.android.as.oss.R.attr.isPreferenceVisible, com.google.android.as.oss.R.attr.key, com.google.android.as.oss.R.attr.layout, com.google.android.as.oss.R.attr.order, com.google.android.as.oss.R.attr.persistent, com.google.android.as.oss.R.attr.selectable, com.google.android.as.oss.R.attr.shouldDisableView, com.google.android.as.oss.R.attr.singleLineTitle, com.google.android.as.oss.R.attr.summary, com.google.android.as.oss.R.attr.title, com.google.android.as.oss.R.attr.widgetLayout};
+    public static final int[] h = {R.attr.layout, R.attr.divider, R.attr.dividerHeight, com.google.android.as.oss.R.attr.allowDividerAfterLastItem};
+    public static final int[] i = {R.attr.orderingFromXml, com.google.android.as.oss.R.attr.initialExpandedChildrenCount, com.google.android.as.oss.R.attr.orderingFromXml};
+    public static final int[] j = {R.attr.maxWidth, R.attr.maxHeight, com.google.android.as.oss.R.attr.maxHeight, com.google.android.as.oss.R.attr.maxWidth};
+    public static final int[] k = {R.attr.layout, R.attr.max, com.google.android.as.oss.R.attr.adjustable, com.google.android.as.oss.R.attr.min, com.google.android.as.oss.R.attr.seekBarIncrement, com.google.android.as.oss.R.attr.showSeekBarValue, com.google.android.as.oss.R.attr.updatesContinuously};
+    public static final int[] l = {R.attr.summaryOn, R.attr.summaryOff, R.attr.disableDependentsState, R.attr.switchTextOn, R.attr.switchTextOff, com.google.android.as.oss.R.attr.disableDependentsState, com.google.android.as.oss.R.attr.summaryOff, com.google.android.as.oss.R.attr.summaryOn, com.google.android.as.oss.R.attr.switchTextOff, com.google.android.as.oss.R.attr.switchTextOn};
+    public static final int[] m = {R.attr.summaryOn, R.attr.summaryOff, R.attr.disableDependentsState, R.attr.switchTextOn, R.attr.switchTextOff, com.google.android.as.oss.R.attr.disableDependentsState, com.google.android.as.oss.R.attr.summaryOff, com.google.android.as.oss.R.attr.summaryOn, com.google.android.as.oss.R.attr.switchTextOff, com.google.android.as.oss.R.attr.switchTextOn};
+}

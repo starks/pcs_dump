@@ -1,0 +1,8 @@
+package defpackage;
+
+/* compiled from: PG */
+@Deprecated
+/* loaded from: classes.dex */
+public interface zb extends yz {
+    za a();
+}
